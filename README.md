@@ -1,1 +1,3 @@
 # RUPAREL-COLLEGE
+python
+foss
